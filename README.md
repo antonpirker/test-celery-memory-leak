@@ -8,7 +8,7 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-## Starting (in seperate shells)
+## Starting (in 4 separate shells)
 
 ```
 ./run-gunicorn.sh 
