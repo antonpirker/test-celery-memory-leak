@@ -1,0 +1,1 @@
+locust --headless --users 200 --spawn-rate 5 -H http://localhost:5000
